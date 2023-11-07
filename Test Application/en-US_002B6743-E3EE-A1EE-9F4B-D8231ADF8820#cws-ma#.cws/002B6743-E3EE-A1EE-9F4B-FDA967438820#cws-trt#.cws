@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="002B6743-E3EE-A1EE-9F4B-FDA96743C820">
+	<DocumentID>002B6743-E3EE-A1EE-9F4B-FDA967438820</DocumentID>
+	<Name>002B6743-E3EE-A1EE-9F4B-FDA967438820</Name>
+	<Description>ENT904</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-11-07T05:39:38.936</CreationDate>
+	<Notes/>
+	<Text>ENT904</Text>
+	<Language>
+		<uri
+			id="002B6743-E3EE-A1EE-9F4B-D8231ADF0820"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="002B6743-E3EE-A1EE-9F4B-FDA967430820"
+		/>
+	</TextIdentifier>
+</TranslatedText>
